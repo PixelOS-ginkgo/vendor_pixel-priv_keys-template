@@ -1,9 +1,9 @@
 ```bash
-git clone https://github.com/ProjectMatrixx/android_vendor_lineage-priv_keys-template.git -b master vendor/lineage-priv/keys
+git clone https://github.com/PixelOS-ginkgo/vendor_pixel-priv_keys-template.git -b vic vendor/pixel-priv/keys
 ```
 
 ```bash
-cd vendor/lineage-priv/keys
+cd vendor/pixel-priv/keys
 ```
 
 ```bash
